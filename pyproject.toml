@@ -1,0 +1,8 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "secoro_lab_documentations"
+authors = [{name = "KishanSawant, VamsiKalagaturu", email = "kishansawant96@gmail.com, vamsik1819@gmail.com"}]
+dynamic = ["version", "description"]
